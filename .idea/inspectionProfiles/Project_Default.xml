@@ -1,0 +1,83 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Django" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E101" />
+          <option value="E131" />
+          <option value="E501" />
+          <option value="W191" />
+          <option value="E128" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="masters.models.RolesPermission.DoesNotExist" />
+          <option value="masters.models.Permission.objects" />
+          <option value="users.models.Admin.objects" />
+          <option value="masters.models.OfficeLocation.objects" />
+          <option value="masters.models.OfficeLocation.DoesNotExist" />
+          <option value="staff_managers.models.StaffManagerUser.objects" />
+          <option value="masters.models.RolesPermission.objects" />
+          <option value="masters.models.SharedServices.DoesNotExist" />
+          <option value="staff_managers.models.StaffSharedServices.objects" />
+          <option value="masters.models.SharedServices.objects" />
+          <option value="masters.models.FeeType.objects" />
+          <option value="masters.models.HolidayCalendar.objects" />
+          <option value="masters.models.HolidayCalendar.DoesNotExist" />
+          <option value="masters.models.FeeType.DoesNotExist" />
+          <option value="masters.models.ProjectStatus.objects" />
+          <option value="masters.models.ProjectStatus.DoesNotExist" />
+          <option value="users.models.CustomUser.DoesNotExist" />
+          <option value="users.models.EmailVerification.objects" />
+          <option value="users.models.ForgotPasswordRequest.objects" />
+          <option value="users.models.ForgotPasswordRequest.DoesNotExist" />
+          <option value="organization.models.ClientIndustry.objects" />
+          <option value="staff_managers.models.StaffManagerUser.DoesNotExist" />
+          <option value="users.models.Admin.DoesNotExist" />
+          <option value="staff_managers.models.WorkDairy.objects" />
+          <option value="clients.models.Client.objects" />
+          <option value="clients.models.Project.objects" />
+          <option value="clients.models.Client.DoesNotExist" />
+          <option value="clients.models.ProjectTeam.objects" />
+          <option value="clients.models.Project.DoesNotExist" />
+          <option value="staff_managers.models.WorkDairy.DoesNotExist" />
+          <option value="staff_managers.models.Vacation.DoesNotExist" />
+          <option value="staff_managers.models.Vacation.objects" />
+          <option value="users.models.AuditLogs.objects" />
+          <option value="clients.models.Invoice.objects" />
+          <option value="clients.models.Invoice.DoesNotExist" />
+          <option value="organization.models.Organization.objects" />
+          <option value="users.models.BlackListedToken.objects" />
+          <option value="users.models.BlackListedToken.DoesNotExist" />
+          <option value="organization.models.Organization.DoesNotExist" />
+          <option value="organization.models.SubscriptionPlan.objects" />
+          <option value="organization.models.SubscriptionPlan.DoesNotExist" />
+          <option value="users.models.LoginAttempt.objects" />
+          <option value="products.models.Product.objects" />
+          <option value="products.models.Product.DoesNotExist" />
+          <option value="Django_Best_Practices.home.models.Book.objects" />
+          <option value="Django_Best_Practices.home.models.Book.DoesNotExist" />
+          <option value="masters.models.Country.objects" />
+          <option value="masters.models.City.objects" />
+          <option value="masters.models.State.objects" />
+          <option value="masters.models.Country.DoesNotExist" />
+          <option value="masters.models.State.DoesNotExist" />
+          <option value="masters.models.City.DoesNotExist" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
